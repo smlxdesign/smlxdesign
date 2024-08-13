@@ -7,5 +7,5 @@
 🧔🏻‍♂️ He/Him  
 🇸🇪 Sweden  
 🧑‍💻 HTML & CSS  
-🐧 Mint / Plasma  
-⛏️ Minecraft
+🐧 Mint + AwesomeWM
+🎮 Minecraft
