@@ -5,5 +5,5 @@
 🧔🏻‍♂️ He/Him  
 🇸🇪 Sweden  
 🧑‍💻 HTML & CSS  
-🐧 Mint + AwesomeWM
+🐧 Mint + Sway
 🎮 Minecraft
