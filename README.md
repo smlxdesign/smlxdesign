@@ -2,8 +2,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/smlxdesign)
 
 **S · A · M · U · E · L**  
-🧔🏻‍♂️ He/Him  
-🇸🇪 Sweden  
-🧑‍💻 HTML & CSS  
-🐧 Mint + Sway
-🎮 Minecraft
+- 🧔🏻‍♂️ He/Him
+
+- 🇸🇪 Sweden
+
+- 🧑‍💻 HTML & CSS
+
+- 🐧 Mint + Sway
+
+- 🎮 Minecraft
