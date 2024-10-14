@@ -6,7 +6,7 @@
 
 - 🇸🇪 Sweden
 
-- 🧑‍💻 HTML & CSS
+- 🧑‍💻 HTML, CSS and JS
 
 - 🐧 Arch + Plasma
 
