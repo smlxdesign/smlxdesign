@@ -8,6 +8,6 @@
 
 - 🧑‍💻 HTML & CSS
 
-- 🐧 Mint + Sway
+- 🐧 Arch + Plasma
 
 - 🎮 Minecraft
