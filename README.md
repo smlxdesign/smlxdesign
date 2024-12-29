@@ -4,7 +4,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/smlxdesign)
 
 **S · A · M · U · E · L**  
-`- 🧔🏻‍♂️ He/Him
+```
+- 🧔🏻‍♂️ He/Him
 
 - 🇸🇪 Sweden
 
@@ -12,4 +13,5 @@
 
 - 🐧 Arch + Plasma
 
-- 🎮 Minecraft`
+- 🎮 Minecraft
+```
