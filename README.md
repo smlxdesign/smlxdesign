@@ -1,7 +1,1 @@
-**S · A · M · U · E · L**
-
-- 🧔🏻‍♂️ He/Him
-- 🇸🇪 Sweden
-- 🧑‍💻 [TypeScript](https://typescriptlang.org) + [Bun](https://bun.sh)
-- 🐧 [Fedora](https://fedoraproject.org)
-- 🎮 [Minecraft](https://minecraft.net)
+# ALL MY LATEST PROJECTS ARE AT [CODEBERG.ORG](https://codeberg.org/smlxdesign), a free/libre European GitHub Alternative
